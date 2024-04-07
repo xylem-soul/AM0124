@@ -35,11 +35,11 @@ This policy is published to Hedera network and can be imported via Github (.poli
 
 ### Available roles
 
-Project Proponent - Responsible for initiating and executing hydrogen production projects as per the AM0124 methodology. They adhere to the methodology's requirements, providing evidence of project activities, such as electricity consumption, hydrogen production, and emission reductions achieved. Upon successful validation and verification, the project proponent receives Hydrogen Switch Credits (HSC) as an incentive for their emission reductions.
+**Project Proponent** - Responsible for initiating and executing hydrogen production projects as per the AM0124 methodology. They adhere to the methodology's requirements, providing evidence of project activities, such as electricity consumption, hydrogen production, and emission reductions achieved. Upon successful validation and verification, the project proponent receives Hydrogen Switch Credits (HSC) as an incentive for their emission reductions.
 
-Validation and Verification Body (VVB) - Independently validates and verifies project data submitted by the project proponent. They assess the project design document, including additionality demonstration and estimated emission reductions. Additionally, the VVB verifies monitoring reports and ensures compliance with AM0124 guidelines. Based on their evaluation, the VVB approves or rejects projects for registration and credit issuance.
+**Validation and Verification Body (VVB)** - Independently validates and verifies project data submitted by the project proponent. They assess the project design document, including additionality demonstration and estimated emission reductions. Additionally, the VVB verifies monitoring reports and ensures compliance with AM0124 guidelines. Based on their evaluation, the VVB approves or rejects projects for registration and credit issuance.
 
-Registry (Verra) - Manages project intake, pipeline, and final review of project design documents and monitoring reports for projects following the AM0124 methodology. Verra ensures compliance with methodology requirements before issuing Hydrogen Switch Credits (HSC) to approved projects.
+**Registry (Verra)** - Manages project intake, pipeline, and final review of project design documents and monitoring reports for projects following the AM0124 methodology. Verra ensures compliance with methodology requirements before issuing Hydrogen Switch Credits (HSC) to approved projects.
 
 ### Token issued
 
